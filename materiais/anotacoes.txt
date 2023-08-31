@@ -1,0 +1,9 @@
+>>> limpar o terminal control + l 
+
+
+> Constantes python não tem constantes 
+>>>> para saber e ficar mais facil o entendimento vamos dizer que toda constante em python vamos definir sua constante com letras maiusculas 
+
+
+> Conversão de tipos
+>>>> 
