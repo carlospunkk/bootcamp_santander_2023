@@ -7,3 +7,5 @@
 
 > Conversão de tipos
 >>>> 
+
+> Operadores são utilizados para comparar se os dois objetos testados ocupam espaço na memoria .
