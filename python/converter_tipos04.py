@@ -10,7 +10,7 @@ print(preco)
 preco = int(preco)
 print(preco)
 
-preco = 10 // 2 # para o resultado ser inteiro divido por duas barras 
+preco = 5 // 2 # para o resultado ser inteiro divido por duas barras 
 print(preco)
 
 ### Para String 
