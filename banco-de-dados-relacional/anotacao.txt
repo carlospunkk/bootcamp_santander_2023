@@ -47,3 +47,38 @@ JÁ UMA RESERVA SÓ PODE TER 1 USUARIO SIGINIFICA 1 PARA UM
 LINK https://app.quickdatabasediagrams.com/
 
 >>>> MODELAGEM RELACIONAL 
+
+>> Tabelas colunas e registros 
+
+> Estrutura do comando CREATE 
+
+CREATE TABLE {{nome}}
+
+({{coluna}} {{tipo}} {{ opcoes}} COMMENT 
+{{´COMENTARIO`}});
+
+>> TIPOS DADOS 
+INTEIRO (INTEGEGER)
+DECIMAL/NUMÉRICO (DECIMAL/NUMERIC)
+CARACTERE/VARCHAR (CHARACTER/VARCHAR) STRING 
+DATA/HORA (DATE/TIME)
+BOOLEAN (BOOLEAN)
+TEXTO LONGO (TEXT/LONG)
+
+>> RESTRIÇÕES DE VALOR :
+NOT NULL 
+UNIQUE 
+DEFAULT
+
+>> Chaves primarias e estrangeiras 
+AUTOINCREMENTO
+
+
+
+
+
+
+
+
+
+
