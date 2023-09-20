@@ -1,4 +1,4 @@
-"""
+
 frutas = ["laranja","morango","uva"]
 
 frutas = []
@@ -129,7 +129,7 @@ linguagens.sort(key=lambda x:len(x), reverse=True) # "c", "js","python","javascr
 materias = ["matematica","fisica","portugues"]
 len(materias) # 5
     
-    """
+    
 
 # (sorted) função 
 materias = ["matematica","fisica","portugues"] # ordena també por tamnanho de strings 
